@@ -1,2 +1,1 @@
-# View
-ZF2 View Helper Module
+# Major Caiger / View
