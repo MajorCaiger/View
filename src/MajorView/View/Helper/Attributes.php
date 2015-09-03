@@ -5,7 +5,7 @@
  *
  * @author Rob Caiger <rob@clocal.co.uk>
  */
-namespace MajorVie\View\Helper;
+namespace MajorView\View\Helper;
 
 use Zend\Form\View\Helper\AbstractHelper;
 
